@@ -1,0 +1,3 @@
+.principal{
+    height: calc(100vh - theme('height.principal')) ;
+}

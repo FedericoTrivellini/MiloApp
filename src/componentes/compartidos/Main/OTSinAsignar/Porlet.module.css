@@ -1,0 +1,12 @@
+.table{
+    @apply bg-sky-50 border border-slate-800 rounded-md shadow-lg;
+}
+.tableIntTH{
+    @apply border border-sky-500 p-1 bg-sky-200 text-white;
+}
+.tableIntTD{
+    @apply border border-sky-500 p-1 bg-white;
+}
+.contenedor{
+    @apply flex  justify-center p-4;
+}
